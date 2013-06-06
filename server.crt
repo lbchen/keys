@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=SanJose, O=SJSU, OU=CMPE, CN=netgearsv/name=EasyRSA/emailAddress=wysclb@126.com
+        Validity
+            Not Before: Jun  5 23:08:05 2013 GMT
+            Not After : Jun  3 23:08:05 2023 GMT
+        Subject: C=US, ST=CA, L=SanJose, O=SJSU, OU=CMPE, CN=netgearsv/name=EasyRSA/emailAddress=wysclb@126.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:d2:a7:b2:1d:38:72:4e:9b:c4:37:50:74:92:
+                    56:7a:2c:48:7b:80:34:b0:73:24:1e:94:88:65:28:
+                    04:d3:25:c9:f3:05:3a:58:6e:19:a1:8c:90:63:e7:
+                    03:12:a9:cb:2e:5e:de:b2:5f:22:bc:d7:ec:33:43:
+                    37:4a:2a:24:7d:b3:cc:7d:81:9e:31:fc:80:81:1d:
+                    32:c0:de:df:a5:f7:07:73:d7:83:c8:d0:18:9a:f0:
+                    84:16:1e:af:42:f3:e9:36:96:a4:37:9b:56:b9:20:
+                    e1:da:74:bb:3f:5e:44:58:15:7c:1f:2a:25:ce:6c:
+                    67:37:95:5c:6b:8d:5d:a7:e9:0b:67:79:1d:36:7f:
+                    35:ca:44:83:21:bc:93:82:29:2b:fc:3d:30:a7:2b:
+                    ff:94:87:80:e6:ea:25:52:fb:61:b5:28:b6:0e:3b:
+                    5c:75:26:e5:d9:0c:1e:1a:14:3d:bc:5f:ff:5e:4b:
+                    0e:40:77:8a:69:65:a5:10:e2:48:c8:12:5c:a6:2d:
+                    51:67:f4:56:79:41:ae:c5:fe:6a:8a:55:bc:4b:8a:
+                    a3:a0:9b:61:48:82:4a:55:91:8c:ce:eb:30:ee:01:
+                    c6:a8:a9:a4:cb:28:1a:af:d2:36:2e:ca:46:75:c9:
+                    19:32:00:b3:e8:aa:7a:2a:55:75:73:ae:95:30:38:
+                    5f:59
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                51:E8:CD:44:CA:5E:48:E2:40:32:44:3A:A1:5F:25:AF:9F:B0:50:FA
+            X509v3 Authority Key Identifier: 
+                keyid:8E:A3:DF:1C:C5:31:7E:C7:5D:00:48:7D:CC:E2:0C:F6:FF:5F:5E:A2
+                DirName:/C=US/ST=CA/L=SanJose/O=SJSU/OU=CMPE/CN=netgearsv/name=EasyRSA/emailAddress=wysclb@126.com
+                serial:B5:43:B3:52:A8:6F:49:88
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         37:9f:d5:ac:78:b0:ed:72:19:b7:c8:4a:a3:15:fa:02:40:3c:
+         80:a8:a2:e6:f7:0a:cb:58:d3:3a:90:e4:27:09:35:08:1f:bf:
+         3a:dc:76:6f:08:20:c4:2c:71:df:c6:85:42:1e:f6:21:7f:1a:
+         76:77:be:91:ef:7e:e3:9f:66:54:c9:9f:09:12:c7:0d:fe:16:
+         1a:18:e3:ee:e1:b3:ab:1a:42:fb:d2:4a:51:67:ed:20:40:43:
+         7e:53:a3:4b:84:08:db:ad:9c:72:51:7d:dc:30:4d:9e:bc:75:
+         bd:3d:6f:53:c0:88:07:bb:f4:41:a1:ee:9a:94:37:c6:de:1e:
+         d4:7f:f7:52:3f:7a:c5:d6:d3:82:a9:3f:61:9a:ae:74:15:8f:
+         ab:d8:3b:4a:96:d6:3c:a9:83:28:90:24:c3:31:a9:67:13:d1:
+         a9:93:e0:91:83:c3:09:5f:45:bc:2f:b1:49:44:f6:34:9c:5e:
+         7b:1b:3b:8f:ab:4e:65:ed:07:57:ff:78:c0:64:23:f8:20:87:
+         55:c6:d3:cb:aa:f3:84:b5:20:ad:3a:fd:f4:29:bc:b1:f1:62:
+         83:1e:cd:dc:09:0a:69:08:ed:e8:b2:1f:71:50:7a:c7:bf:ed:
+         c4:4e:83:c4:3c:49:8d:03:da:1f:59:66:df:98:0f:eb:19:a0:
+         8a:18:4c:4d
+-----BEGIN CERTIFICATE-----
+MIIE/TCCA+WgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAkNBMRAwDgYDVQQHEwdTYW5Kb3NlMQ0wCwYDVQQKEwRTSlNVMQ0w
+CwYDVQQLEwRDTVBFMRIwEAYDVQQDEwluZXRnZWFyc3YxEDAOBgNVBCkTB0Vhc3lS
+U0ExHTAbBgkqhkiG9w0BCQEWDnd5c2NsYkAxMjYuY29tMB4XDTEzMDYwNTIzMDgw
+NVoXDTIzMDYwMzIzMDgwNVowgY8xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEQ
+MA4GA1UEBxMHU2FuSm9zZTENMAsGA1UEChMEU0pTVTENMAsGA1UECxMEQ01QRTES
+MBAGA1UEAxMJbmV0Z2VhcnN2MRAwDgYDVQQpEwdFYXN5UlNBMR0wGwYJKoZIhvcN
+AQkBFg53eXNjbGJAMTI2LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJbSp7IdOHJOm8Q3UHSSVnosSHuANLBzJB6UiGUoBNMlyfMFOlhuGaGMkGPn
+AxKpyy5e3rJfIrzX7DNDN0oqJH2zzH2BnjH8gIEdMsDe36X3B3PXg8jQGJrwhBYe
+r0Lz6TaWpDebVrkg4dp0uz9eRFgVfB8qJc5sZzeVXGuNXafpC2d5HTZ/NcpEgyG8
+k4IpK/w9MKcr/5SHgObqJVL7YbUotg47XHUm5dkMHhoUPbxf/15LDkB3imllpRDi
+SMgSXKYtUWf0VnlBrsX+aopVvEuKo6CbYUiCSlWRjM7rMO4BxqippMsoGq/SNi7K
+RnXJGTIAs+iqeipVdXOulTA4X1kCAwEAAaOCAWAwggFcMAkGA1UdEwQCMAAwEQYJ
+YIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0
+ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBRR6M1Eyl5I4kAyRDqhXyWv
+n7BQ+jCBxAYDVR0jBIG8MIG5gBSOo98cxTF+x10ASH3M4gz2/19eoqGBlaSBkjCB
+jzELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRAwDgYDVQQHEwdTYW5Kb3NlMQ0w
+CwYDVQQKEwRTSlNVMQ0wCwYDVQQLEwRDTVBFMRIwEAYDVQQDEwluZXRnZWFyc3Yx
+EDAOBgNVBCkTB0Vhc3lSU0ExHTAbBgkqhkiG9w0BCQEWDnd5c2NsYkAxMjYuY29t
+ggkAtUOzUqhvSYgwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0G
+CSqGSIb3DQEBCwUAA4IBAQA3n9WseLDtchm3yEqjFfoCQDyAqKLm9wrLWNM6kOQn
+CTUIH7863HZvCCDELHHfxoVCHvYhfxp2d76R737jn2ZUyZ8JEscN/hYaGOPu4bOr
+GkL70kpRZ+0gQEN+U6NLhAjbrZxyUX3cME2evHW9PW9TwIgHu/RBoe6alDfG3h7U
+f/dSP3rF1tOCqT9hmq50FY+r2DtKltY8qYMokCTDMalnE9Gpk+CRg8MJX0W8L7FJ
+RPY0nF57GzuPq05l7QdX/3jAZCP4IIdVxtPLqvOEtSCtOv30Kbyx8WKDHs3cCQpp
+CO3osh9xUHrHv+3EToPEPEmNA9ofWWbfmA/rGaCKGExN
+-----END CERTIFICATE-----
