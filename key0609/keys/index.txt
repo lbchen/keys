@@ -1,0 +1,2 @@
+V	230607071031Z		01	unknown	/C=US/ST=California/L=SanJose/O=sjsu/OU=cmpe/CN=server/name=EasyRSA/emailAddress=lbchen@gmail.com
+V	230607175437Z		02	unknown	/C=US/ST=California/L=SanJose/O=sjsu/OU=cmpe/CN=client/name=EasyRSA/emailAddress=lbchen@gmail.com
